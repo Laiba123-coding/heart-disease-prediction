@@ -1,4 +1,4 @@
-# ❤ Heart Disease Prediction
+#  Heart Disease Prediction
 
 This project predicts whether a person is at risk of heart disease based on their medical data using **Logistic Regression** and **Decision Tree** models.  
 It uses the **Heart Disease UCI Dataset** from [Kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset) and performs full data cleaning, EDA, model training, and evaluation.
